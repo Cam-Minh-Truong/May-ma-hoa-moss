@@ -1,11 +1,5 @@
 function A () {
-    basic.showLeds(`
-        # . . . #
-        # # . # #
-        # . # . #
-        # . . . #
-        # . . . #
-        `)
+	
 }
 function B () {
 	
